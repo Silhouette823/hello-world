@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi
+
+Crypto enthusiast here, I like beautifulsoup and coffeescript
